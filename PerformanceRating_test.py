@@ -1,5 +1,5 @@
 import unittest
-from PerformanceRating import PerformanceRating1
+from PerformanceRating import PerformanceRating
 
 class TestPerformanceRating(unittest.TestCase):
 
